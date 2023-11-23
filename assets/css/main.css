@@ -32,6 +32,12 @@ footer, header, hgroup, menu, nav, section {
 
 	* {box-sizing:border-box}
 
+/* Responsive image */
+.responsive {
+	width: 40%;
+	height: auto;
+  }
+
 /* Slideshow container */
 .slideshow-container {
 	max-width: 1000px;
